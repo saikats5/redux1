@@ -1,4 +1,4 @@
-export default exports = [
+let cities = [
 	{city:'Kolhapur', state:'Maharashtra'},
 	{city:'Port Blair', state:'Andaman & Nicobar Islands'},
 	{city:'Adilabad', state:'Andhra Pradesh'},
@@ -1467,3 +1467,5 @@ export default exports = [
 	{city:'Dharwad', state:'Karnataka'},
 	{city:'Gadag', state:'Karnataka'}
 ];
+
+export default cities;
